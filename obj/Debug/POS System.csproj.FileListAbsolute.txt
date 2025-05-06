@@ -1,0 +1,17 @@
+C:\Users\villarin.rodney\Videos\POS System\bin\Debug\POS System.exe.config
+C:\Users\villarin.rodney\Videos\POS System\bin\Debug\POS System.exe
+C:\Users\villarin.rodney\Videos\POS System\bin\Debug\POS System.pdb
+C:\Users\villarin.rodney\Videos\POS System\bin\Debug\CuoreUI.dll
+C:\Users\villarin.rodney\Videos\POS System\bin\Debug\MetroFramework.Design.dll
+C:\Users\villarin.rodney\Videos\POS System\bin\Debug\MetroFramework.dll
+C:\Users\villarin.rodney\Videos\POS System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\villarin.rodney\Videos\POS System\bin\Debug\ReaLTaiizor.dll
+C:\Users\villarin.rodney\Videos\POS System\bin\Debug\ReaLTaiizor.xml
+C:\Users\villarin.rodney\Videos\POS System\obj\Debug\POS System.csproj.AssemblyReference.cache
+C:\Users\villarin.rodney\Videos\POS System\obj\Debug\POS_System.Form1.resources
+C:\Users\villarin.rodney\Videos\POS System\obj\Debug\POS_System.Properties.Resources.resources
+C:\Users\villarin.rodney\Videos\POS System\obj\Debug\POS System.csproj.GenerateResource.cache
+C:\Users\villarin.rodney\Videos\POS System\obj\Debug\POS System.csproj.CoreCompileInputs.cache
+C:\Users\villarin.rodney\Videos\POS System\obj\Debug\POS System.csproj.Up2Date
+C:\Users\villarin.rodney\Videos\POS System\obj\Debug\POS System.exe
+C:\Users\villarin.rodney\Videos\POS System\obj\Debug\POS System.pdb

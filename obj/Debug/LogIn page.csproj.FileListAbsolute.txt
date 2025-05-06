@@ -1,0 +1,341 @@
+C:\Users\villarin.rodney\Pictures\POS System\bin\Debug\POS System.exe.config
+C:\Users\villarin.rodney\Pictures\POS System\bin\Debug\POS System.exe
+C:\Users\villarin.rodney\Pictures\POS System\bin\Debug\POS System.pdb
+C:\Users\villarin.rodney\Pictures\POS System\bin\Debug\CuoreUI.dll
+C:\Users\villarin.rodney\Pictures\POS System\bin\Debug\MetroFramework.Design.dll
+C:\Users\villarin.rodney\Pictures\POS System\bin\Debug\MetroFramework.dll
+C:\Users\villarin.rodney\Pictures\POS System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\villarin.rodney\Pictures\POS System\bin\Debug\ReaLTaiizor.dll
+C:\Users\villarin.rodney\Pictures\POS System\bin\Debug\ReaLTaiizor.xml
+C:\Users\villarin.rodney\Pictures\POS System\obj\Debug\LogIn page.csproj.AssemblyReference.cache
+C:\Users\villarin.rodney\Pictures\POS System\obj\Debug\POS_System.LogIn.resources
+C:\Users\villarin.rodney\Pictures\POS System\obj\Debug\POS_System.Properties.Resources.resources
+C:\Users\villarin.rodney\Pictures\POS System\obj\Debug\LogIn page.csproj.GenerateResource.cache
+C:\Users\villarin.rodney\Pictures\POS System\obj\Debug\LogIn page.csproj.CoreCompileInputs.cache
+C:\Users\villarin.rodney\Pictures\POS System\obj\Debug\LogIn page.csproj.Up2Date
+C:\Users\villarin.rodney\Pictures\POS System\obj\Debug\POS System.exe
+C:\Users\villarin.rodney\Pictures\POS System\obj\Debug\POS System.pdb
+C:\Users\John Joseph\Desktop\POS\LogIn Page\bin\Debug\POS System.exe.config
+C:\Users\John Joseph\Desktop\POS\LogIn Page\bin\Debug\POS System.exe
+C:\Users\John Joseph\Desktop\POS\LogIn Page\bin\Debug\POS System.pdb
+C:\Users\John Joseph\Desktop\POS\LogIn Page\bin\Debug\CuoreUI.dll
+C:\Users\John Joseph\Desktop\POS\LogIn Page\bin\Debug\MetroFramework.Design.dll
+C:\Users\John Joseph\Desktop\POS\LogIn Page\bin\Debug\MetroFramework.dll
+C:\Users\John Joseph\Desktop\POS\LogIn Page\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\John Joseph\Desktop\POS\LogIn Page\bin\Debug\ReaLTaiizor.dll
+C:\Users\John Joseph\Desktop\POS\LogIn Page\bin\Debug\ReaLTaiizor.xml
+C:\Users\John Joseph\Desktop\POS\LogIn Page\obj\Debug\LogIn page.csproj.AssemblyReference.cache
+C:\Users\John Joseph\Desktop\POS\LogIn Page\obj\Debug\POS_System.LogIn.resources
+C:\Users\John Joseph\Desktop\POS\LogIn Page\obj\Debug\POS_System.Properties.Resources.resources
+C:\Users\John Joseph\Desktop\POS\LogIn Page\obj\Debug\LogIn page.csproj.GenerateResource.cache
+C:\Users\John Joseph\Desktop\POS\LogIn Page\obj\Debug\LogIn page.csproj.CoreCompileInputs.cache
+C:\Users\John Joseph\Desktop\POS\LogIn Page\obj\Debug\LogIn page.csproj.Up2Date
+C:\Users\John Joseph\Desktop\POS\LogIn Page\obj\Debug\POS System.exe
+C:\Users\John Joseph\Desktop\POS\LogIn Page\obj\Debug\POS System.pdb
+C:\Users\John Joseph\Desktop\POS\LogIn Page\obj\Debug\POS_System.Main.resources
+C:\Users\John Joseph\Desktop\LogIn Page\obj\Debug\LogIn page.csproj.AssemblyReference.cache
+C:\Users\John Joseph\Desktop\LogIn Page\obj\Debug\POS_System.LogIn.resources
+C:\Users\John Joseph\Desktop\LogIn Page\obj\Debug\POS_System.Main.resources
+C:\Users\John Joseph\Desktop\LogIn Page\obj\Debug\POS_System.Properties.Resources.resources
+C:\Users\John Joseph\Desktop\LogIn Page\obj\Debug\LogIn page.csproj.GenerateResource.cache
+C:\Users\John Joseph\Desktop\LogIn Page\obj\Debug\LogIn page.csproj.CoreCompileInputs.cache
+C:\Users\John Joseph\Desktop\LogIn Page\obj\Debug\POS System.exe
+C:\Users\John Joseph\Desktop\LogIn Page\obj\Debug\POS System.pdb
+C:\Users\John Joseph\Desktop\LogIn Page\bin\Debug\POS System.exe.config
+C:\Users\John Joseph\Desktop\LogIn Page\bin\Debug\POS System.exe
+C:\Users\John Joseph\Desktop\LogIn Page\bin\Debug\POS System.pdb
+C:\Users\John Joseph\Desktop\LogIn Page\bin\Debug\CuoreUI.dll
+C:\Users\John Joseph\Desktop\LogIn Page\bin\Debug\MetroFramework.Design.dll
+C:\Users\John Joseph\Desktop\LogIn Page\bin\Debug\MetroFramework.dll
+C:\Users\John Joseph\Desktop\LogIn Page\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\John Joseph\Desktop\LogIn Page\bin\Debug\ReaLTaiizor.dll
+C:\Users\John Joseph\Desktop\LogIn Page\bin\Debug\ReaLTaiizor.xml
+C:\Users\John Joseph\Desktop\LogIn Page\obj\Debug\LogIn page.csproj.Up2Date
+C:\Users\John Joseph\Desktop\LogIn Page\bin\Debug\CodeeloUI.dll
+C:\Users\John Joseph\Desktop\LogIn Page\bin\Debug\FlaUI.Core.dll
+C:\Users\John Joseph\Desktop\LogIn Page\bin\Debug\FluentTransitions.dll
+C:\Users\John Joseph\Desktop\LogIn Page\bin\Debug\Guna.UI2.dll
+C:\Users\John Joseph\Desktop\LogIn Page\bin\Debug\System.CodeDom.dll
+C:\Users\John Joseph\Desktop\LogIn Page\bin\Debug\System.Drawing.Common.dll
+C:\Users\John Joseph\Desktop\LogIn Page\bin\Debug\FlaUI.Core.xml
+C:\Users\John Joseph\Desktop\LogIn Page\bin\Debug\FluentTransitions.xml
+C:\Users\John Joseph\Desktop\LogIn Page\bin\Debug\System.CodeDom.xml
+C:\Users\John Joseph\Desktop\LogIn Page\bin\Debug\System.Drawing.Common.xml
+C:\Users\John Joseph\Desktop\LogIn Page\obj\Debug\POS_System.Add_Customer.resources
+C:\Users\John Joseph\Desktop\LogIn Page\obj\Debug\POS_System.Bill_Lists.resources
+C:\Users\John Joseph\Desktop\LogIn Page\obj\Debug\WorkStation.CheckOut.resources
+C:\Users\John Joseph\Desktop\LogIn Page\obj\Debug\POS_System.Form_Category.resources
+C:\Users\John Joseph\Desktop\LogIn Page\obj\Debug\WorkStation.POS.resources
+C:\Users\John Joseph\Desktop\LogIn Page\obj\Debug\WorkStation.KitchenView.resources
+C:\Users\John Joseph\Desktop\LogIn Page\obj\Debug\POS_System.Product_View.resources
+C:\Users\John Joseph\Desktop\LogIn Page\obj\Debug\POS_System.Sample_View.resources
+C:\Users\John Joseph\Desktop\LogIn Page\obj\Debug\POS_System.Staff_View.resources
+C:\Users\John Joseph\Desktop\LogIn Page\obj\Debug\WorkStation.StaffAdd.resources
+C:\Users\John Joseph\Desktop\LogIn Page\obj\Debug\WorkStation.TableSelect.resources
+C:\Users\John Joseph\Desktop\LogIn Page\obj\Debug\WorkStation.WaiterSelect.resources
+C:\Users\John Joseph\Desktop\POS System\bin\Debug\POS System.exe.config
+C:\Users\John Joseph\Desktop\POS System\bin\Debug\POS System.exe
+C:\Users\John Joseph\Desktop\POS System\bin\Debug\POS System.pdb
+C:\Users\John Joseph\Desktop\POS System\bin\Debug\CodeeloUI.dll
+C:\Users\John Joseph\Desktop\POS System\bin\Debug\CuoreUI.dll
+C:\Users\John Joseph\Desktop\POS System\bin\Debug\FlaUI.Core.dll
+C:\Users\John Joseph\Desktop\POS System\bin\Debug\FluentTransitions.dll
+C:\Users\John Joseph\Desktop\POS System\bin\Debug\Guna.UI2.dll
+C:\Users\John Joseph\Desktop\POS System\bin\Debug\MetroFramework.Design.dll
+C:\Users\John Joseph\Desktop\POS System\bin\Debug\MetroFramework.dll
+C:\Users\John Joseph\Desktop\POS System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\John Joseph\Desktop\POS System\bin\Debug\ReaLTaiizor.dll
+C:\Users\John Joseph\Desktop\POS System\bin\Debug\System.CodeDom.dll
+C:\Users\John Joseph\Desktop\POS System\bin\Debug\System.Drawing.Common.dll
+C:\Users\John Joseph\Desktop\POS System\bin\Debug\FlaUI.Core.xml
+C:\Users\John Joseph\Desktop\POS System\bin\Debug\FluentTransitions.xml
+C:\Users\John Joseph\Desktop\POS System\bin\Debug\ReaLTaiizor.xml
+C:\Users\John Joseph\Desktop\POS System\bin\Debug\System.CodeDom.xml
+C:\Users\John Joseph\Desktop\POS System\bin\Debug\System.Drawing.Common.xml
+C:\Users\John Joseph\Desktop\POS System\obj\Debug\LogIn page.csproj.AssemblyReference.cache
+C:\Users\John Joseph\Desktop\POS System\obj\Debug\POS_System.Add_Customer.resources
+C:\Users\John Joseph\Desktop\POS System\obj\Debug\POS_System.Bill_Lists.resources
+C:\Users\John Joseph\Desktop\POS System\obj\Debug\WorkStation.CheckOut.resources
+C:\Users\John Joseph\Desktop\POS System\obj\Debug\POS_System.Form_Category.resources
+C:\Users\John Joseph\Desktop\POS System\obj\Debug\WorkStation.POS.resources
+C:\Users\John Joseph\Desktop\POS System\obj\Debug\WorkStation.KitchenView.resources
+C:\Users\John Joseph\Desktop\POS System\obj\Debug\POS_System.LogIn.resources
+C:\Users\John Joseph\Desktop\POS System\obj\Debug\POS_System.Main.resources
+C:\Users\John Joseph\Desktop\POS System\obj\Debug\POS_System.Product_View.resources
+C:\Users\John Joseph\Desktop\POS System\obj\Debug\POS_System.Properties.Resources.resources
+C:\Users\John Joseph\Desktop\POS System\obj\Debug\POS_System.Sample_View.resources
+C:\Users\John Joseph\Desktop\POS System\obj\Debug\POS_System.Staff_View.resources
+C:\Users\John Joseph\Desktop\POS System\obj\Debug\WorkStation.StaffAdd.resources
+C:\Users\John Joseph\Desktop\POS System\obj\Debug\WorkStation.TableSelect.resources
+C:\Users\John Joseph\Desktop\POS System\obj\Debug\WorkStation.WaiterSelect.resources
+C:\Users\John Joseph\Desktop\POS System\obj\Debug\LogIn page.csproj.GenerateResource.cache
+C:\Users\John Joseph\Desktop\POS System\obj\Debug\LogIn page.csproj.CoreCompileInputs.cache
+C:\Users\John Joseph\Desktop\POS System\obj\Debug\LogIn page.csproj.Up2Date
+C:\Users\John Joseph\Desktop\POS System\obj\Debug\POS System.exe
+C:\Users\John Joseph\Desktop\POS System\obj\Debug\POS System.pdb
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\LogIn page.csproj.AssemblyReference.cache
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\LogIn page.csproj.SuggestedBindingRedirects.cache
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\POS System.exe.config
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\POS_System.Add_Customer.resources
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\POS_System.Bill_Lists.resources
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\POS_System.Category_Add.resources
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\WorkStation.CheckOut.resources
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\POS_System.Form_Category.resources
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\POS_System.Home.resources
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\WorkStation.KitchenView.resources
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\POS_System.LogIn.resources
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\POS_System.Main.resources
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\POS_System.Product_View.resources
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\POS_System.Properties.Resources.resources
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\POS_System.Sample_View.resources
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\POS_System.SampleAdd.resources
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\POS_System.Staff_View.resources
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\WorkStation.StaffAdd.resources
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\WorkStation.TableSelect.resources
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\WorkStation.WaiterSelect.resources
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\LogIn page.csproj.GenerateResource.cache
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\POS System.exe.licenses
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\LogIn page.csproj.CoreCompileInputs.cache
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\POS System.exe.config
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\POS System.exe
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\POS System.pdb
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\CodeeloUI.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\CuoreUI.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Charts.v24.2.Core.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.CodeParser.v24.2.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Data.Desktop.v24.2.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Data.v24.2.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.DataAccess.v24.2.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.DataAccess.v24.2.UI.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Diagram.v24.2.Core.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Drawing.v24.2.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Images.v24.2.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Office.v24.2.Core.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Pdf.v24.2.Core.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Pdf.v24.2.Drawing.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.PivotGrid.v24.2.Core.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Printing.v24.2.Core.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.RichEdit.v24.2.Core.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.RichEdit.v24.2.Export.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Sparkline.v24.2.Core.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Utils.v24.2.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Utils.v24.2.UI.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Xpo.v24.2.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraBars.v24.2.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraCharts.v24.2.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraCharts.v24.2.Extensions.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraCharts.v24.2.Wizard.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraDiagram.v24.2.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraEditors.v24.2.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraGauges.v24.2.Core.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraGrid.v24.2.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraLayout.v24.2.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraNavBar.v24.2.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraPivotGrid.v24.2.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraPrinting.v24.2.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraReports.v24.2.CodeCompletion.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraReports.v24.2.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraReports.v24.2.Extensions.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraRichEdit.v24.2.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraTreeList.v24.2.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraVerticalGrid.v24.2.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\FlaUI.Core.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\FluentTransitions.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\Guna.UI2.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\MetroFramework.Design.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\MetroFramework.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\ReaLTaiizor.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\System.CodeDom.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\System.Drawing.Common.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\System.Text.Json.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\System.Memory.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.DataVisualization.v24.2.Core.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\System.ValueTuple.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\System.Buffers.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Charts.v24.2.Core.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Data.Desktop.v24.2.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Data.v24.2.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.DataAccess.v24.2.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.DataAccess.v24.2.UI.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Diagram.v24.2.Core.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Drawing.v24.2.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Office.v24.2.Core.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Pdf.v24.2.Core.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Pdf.v24.2.Drawing.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.PivotGrid.v24.2.Core.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Printing.v24.2.Core.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.RichEdit.v24.2.Core.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Sparkline.v24.2.Core.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Utils.v24.2.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Utils.v24.2.UI.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.Xpo.v24.2.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraBars.v24.2.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraCharts.v24.2.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraCharts.v24.2.Wizard.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraDiagram.v24.2.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraEditors.v24.2.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraGauges.v24.2.Core.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraGrid.v24.2.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraLayout.v24.2.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraNavBar.v24.2.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraPivotGrid.v24.2.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraPrinting.v24.2.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraReports.v24.2.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraReports.v24.2.CodeCompletion.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraReports.v24.2.Extensions.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraRichEdit.v24.2.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraTreeList.v24.2.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\DevExpress.XtraVerticalGrid.v24.2.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\FlaUI.Core.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\FluentTransitions.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\ReaLTaiizor.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\System.CodeDom.xml
+C:\Users\John Joseph\Videos\Captures\POS System\bin\Debug\System.Drawing.Common.xml
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\LogIn page.csproj.Up2Date
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\POS System.exe
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\POS System.pdb
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\POS_System.TableView.resources
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\POS_System.TableAdd.resources
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\POS_System.ProductAdd.resources
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\POS_System.POS.resources
+C:\Users\John Joseph\Videos\Captures\POS System\obj\Debug\POS_System.ucProduct.resources
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\POS System.exe.config
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\POS System.exe
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\POS System.pdb
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\CodeeloUI.dll
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\CuoreUI.dll
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\FlaUI.Core.dll
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\FluentTransitions.dll
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\Guna.UI2.dll
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\MetroFramework.Design.dll
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\MetroFramework.dll
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\ReaLTaiizor.dll
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\System.CodeDom.dll
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\System.Drawing.Common.dll
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\System.Text.Json.dll
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\System.Memory.dll
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.DataVisualization.v24.2.Core.dll
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\System.ValueTuple.dll
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\System.Buffers.dll
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.Charts.v24.2.Core.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.Data.Desktop.v24.2.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.Data.v24.2.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.DataAccess.v24.2.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.DataAccess.v24.2.UI.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.Diagram.v24.2.Core.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.Drawing.v24.2.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.Office.v24.2.Core.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.Pdf.v24.2.Core.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.Pdf.v24.2.Drawing.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.PivotGrid.v24.2.Core.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.Printing.v24.2.Core.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.RichEdit.v24.2.Core.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.Sparkline.v24.2.Core.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.Utils.v24.2.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.Utils.v24.2.UI.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.Xpo.v24.2.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.XtraBars.v24.2.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.XtraCharts.v24.2.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.XtraCharts.v24.2.Wizard.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.XtraDiagram.v24.2.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.XtraEditors.v24.2.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.XtraGauges.v24.2.Core.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.XtraGrid.v24.2.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.XtraLayout.v24.2.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.XtraNavBar.v24.2.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.XtraPivotGrid.v24.2.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.XtraPrinting.v24.2.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.XtraReports.v24.2.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.XtraReports.v24.2.CodeCompletion.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.XtraReports.v24.2.Extensions.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.XtraRichEdit.v24.2.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.XtraTreeList.v24.2.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\DevExpress.XtraVerticalGrid.v24.2.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\FlaUI.Core.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\FluentTransitions.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\ReaLTaiizor.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\System.CodeDom.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\bin\Debug\System.Drawing.Common.xml
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\LogIn page.csproj.AssemblyReference.cache
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\LogIn page.csproj.SuggestedBindingRedirects.cache
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\POS System.exe.config
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\POS_System.Add_Customer.resources
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\POS_System.Bill_Lists.resources
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\POS_System.Category_Add.resources
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\WorkStation.CheckOut.resources
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\POS_System.Form_Category.resources
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\POS_System.Home.resources
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\WorkStation.KitchenView.resources
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\POS_System.LogIn.resources
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\POS_System.Main.resources
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\POS_System.POS.resources
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\POS_System.Product_View.resources
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\POS_System.ProductAdd.resources
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\POS_System.Properties.Resources.resources
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\POS_System.Sample_View.resources
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\POS_System.SampleAdd.resources
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\POS_System.Staff_View.resources
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\WorkStation.StaffAdd.resources
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\POS_System.TableAdd.resources
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\WorkStation.TableSelect.resources
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\POS_System.TableView.resources
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\POS_System.ucProduct.resources
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\WorkStation.WaiterSelect.resources
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\LogIn page.csproj.GenerateResource.cache
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\POS System.exe.licenses
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\LogIn page.csproj.CoreCompileInputs.cache
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\LogIn page.csproj.Up2Date
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\POS System.exe
+C:\Users\sta.ana.johnjoseph\Downloads\POS System\POS System\obj\Debug\POS System.pdb
